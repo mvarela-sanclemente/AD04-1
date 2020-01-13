@@ -82,7 +82,7 @@ public class Equipo implements Serializable{
     
 }
 ```
-- A anotación **@id@ indica que é a clave principal da táboa.
+- A anotación **@id@** indica que é a clave principal da táboa.
 - A anotación **@Column(name="nomeColumna")** é o nome da columna onde se gardará ese atributo.
 
 ## Configuración de Hibernate
