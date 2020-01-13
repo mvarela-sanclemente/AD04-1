@@ -70,7 +70,7 @@ public class Equipo implements Serializable{
     @Column(name="numeroSocios")
     private int numeroSocios;
     
-    public void Equipo(){
+    public Equipo(){
     }
     
     public Equipo(int id, String nome, String cidade, int numeroSocios){
